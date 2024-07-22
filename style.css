@@ -1,5 +1,12 @@
+body{
+    background-image: url(./hieu_hung/images.jfif);
+}
 h2,h6{
-
     color:blueviolet;
+}
 
+input:checked ~ img{
+    opacity: 0;
+    transition: 1.5s;
+    visibility:hidden;
 }
