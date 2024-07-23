@@ -10,3 +10,7 @@ input:checked ~ img{
     transition: 1.5s;
     visibility:hidden;
 }
+
+.demo{
+    color:blueviolet;
+}
