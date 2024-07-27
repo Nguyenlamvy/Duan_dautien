@@ -14,3 +14,26 @@ input:checked ~ img{
 .demo{
     color:blueviolet;
 }
+
+/* Trang 3 */
+.Trang3 h1{
+    color:blue;
+    font-size: 40px;
+}
+
+.Trang3 p{
+    line-height: 1.4;
+    font-size: 24px;
+}
+
+.Trang3 img{
+    max-width: 700px;
+}
+
+.Trang3{
+    background-color: #ddd;
+    margin: 0px auto;
+    width:700px;
+    text-align: center;
+
+}
